@@ -3,6 +3,9 @@ Zenity ve bash script ile kodlanmis, öğrenci kayıt, silme, arama ve listeleme
 
 ![1](https://user-images.githubusercontent.com/58481075/210172202-80756095-138d-44c2-9aff-ffdf3e52f568.png)
 
+## Proje Tanıtım Videosu
+[Linke](https://youtu.be/EPf4w80N5nY) tıklayarak projenin tanıtım videosunu izleyebilirsiniz.
+
 ## Uygulamaya Giriş İçin
 - Kullanıcı Adı: furkan
 - Şifre: 12345
